@@ -17,7 +17,72 @@ The variables in the tidy_data_set include:
 
 * Measurements:
   
-    + mean and standard deviation for each measurement
+    + time_BodyAcceleration-mean()-X
+    + time_BodyAcceleration-mean()-Y 
+    + time_BodyAcceleration-mean()-Z
+    + time_BodyAcceleration-std()-X 
+    + time_BodyAcceleration-std()-Y
+    + time_BodyAcceleration-std()-Z 
+    + time_GravityAcceleration-mean()-X
+    + time_GravityAcceleration-mean()-Y
+    + time_GravityAcceleration-mean()-Z
+    + time_GravityAcceleration-std()-X
+    + time_GravityAcceleration-std()-Y
+    + time_GravityAcceleration-std()-Z
+    + time_BodyAccelerationJerk-mean()-X
+    + time_BodyAccelerationJerk-mean()-Y
+    + time_BodyAccelerationJerk-mean()-Z
+    + time_BodyAccelerationJerk-std()-X
+    + time_BodyAccelerationJerk-std()-Y
+    + time_BodyAccelerationJerk-std()-Z
+    + time_BodyGyro-mean()-X
+    + time_BodyGyro-mean()-Y
+    + time_BodyGyro-mean()-Z
+    + time_BodyGyro-std()-X
+    + time_BodyGyro-std()-Y
+    + time_BodyGyro-std()-Z
+    + time_BodyGyroJerk-mean()-X
+    + time_BodyGyroJerk-mean()-Y
+    + time_BodyGyroJerk-mean()-Z
+    + time_BodyGyroJerk-std()-X
+    + time_BodyGyroJerk-std()-Y
+    + time_BodyGyroJerk-std()-Z
+    + time_BodyAccelerationMag-mean()
+    + time_BodyAccelerationMag-std()
+    + time_GravityAccelerationMag-mean()
+    + time_GravityAccelerationMag-std()
+    + time_BodyAccelerationJerkMag-mean()
+    + time_BodyAccelerationJerkMag-std()
+    + time_BodyGyroMag-mean()
+    + time_BodyGyroMag-std()
+    + time_BodyGyroJerkMag-mean()
+    + time_BodyGyroJerkMag-std()
+    + frequency_BodyAcceleration-mean()-X
+    + frequency_BodyAcceleration-mean()-Y
+    + frequency_BodyAcceleration-mean()-Z
+    + frequency_BodyAcceleration-std()-X
+    + frequency_BodyAcceleration-std()-Y
+    + frequency_BodyAcceleration-std()-Z
+    + frequency_BodyAccelerationJerk-mean()-X
+    + frequency_BodyAccelerationJerk-mean()-Y
+    + frequency_BodyAccelerationJerk-mean()-Z
+    + frequency_BodyAccelerationJerk-std()-X
+    + frequency_BodyAccelerationJerk-std()-Y
+    + frequency_BodyAccelerationJerk-std()-Z
+    + frequency_BodyGyro-mean()-X
+    + frequency_BodyGyro-mean()-Y
+    + frequency_BodyGyro-mean()-Z
+    + frequency_BodyGyro-std()-X
+    + frequency_BodyGyro-std()-Y
+    + frequency_BodyGyro-std()-Z
+    + frequency_BodyAccelerationMag-mean()
+    + frequency_BodyAccelerationMag-std()
+    + frequency_BodyAccelerationJerkMag-mean()
+    + frequency_BodyAccelerationJerkMag-std()
+    + frequency_BodyGyroMag-mean()
+    + frequency_BodyGyroMag-std()
+    + frequency_BodyGyroJerkMag-mean()
+    + frequency_BodyGyroJerkMag-std()
 
 ***
 ## Transformations
