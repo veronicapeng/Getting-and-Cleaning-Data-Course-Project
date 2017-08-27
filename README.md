@@ -1,9 +1,3 @@
----
-title: "README.md"
-output: html_document
----
-
-***
 ## Getting and Cleaning Data Course Project
 
 This is the repo that contains all the working files of this project.
